@@ -1,0 +1,12 @@
+name: padr_shinyapp
+title:
+username:
+account: magdalenakotynia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3473985
+bundleId: 4138255
+url: https://magdalenakotynia.shinyapps.io/padr_shinyapp/
+when: 1611537184.59552
+asMultiple: FALSE
+asStatic: FALSE
