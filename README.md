@@ -1,4 +1,1 @@
-"# gradient-prosty" 
-"# atrial-fibrillation-detection" 
-"# atrial-fibrillation-detection" 
-"# atrial-fibrillation-detection" 
+Dokumentacja aplikacji znajduje się w pliku "Projekt_PADR.html"
